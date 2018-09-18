@@ -1,0 +1,14 @@
+{
+  "name": "screenshot",
+  "version": "1.0.0",
+  "description": "Simple script takes screenshots from an array or urls.",
+  "main": "screenshot.js",
+  "dependencies": {
+    "puppeteer": "^0.10.2"
+  },
+  "scripts": {
+    "screenshot": "node screenshot.js"
+  },
+  "author": "Morgan Taylor Lee",
+  "license": "ISC"
+}
