@@ -1,5 +1,5 @@
 # Screenshot
-A simple tool to parse an array of urls, take a screenshot and save it locally.
+A simple tool to parse an array of urls, take screenshots of those URL's and then save them locally.
 
 ## Run
 `npm run screenshot`
